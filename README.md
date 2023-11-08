@@ -10,11 +10,11 @@
 
 1) Expense Ease has CRUD (create, read, update, delete) features for transactions, savings, budget limits & borrow/lend information.
 2) The application displays Pie & Bar Charts based on the transactions made for every category.
-3) Savings keep the user reminded about the savings goals.
-4) Borrow/Lend tabs and the money user lent or borrowed and will give exceeding Dues message.
+3) Savings keep the user reminded about their saving goals.
+4) Borrow/Lend tab helps the user to keep a record of the money they lent or borrowed and also will remind the user about their exceeding dues.
 5) Budget tab helps user to limit their expenses categorywise about which the user would be reminded when their transactions exceed their set budget for a category.
 6) User-friendly & interactive user interface.
-7) Contains all Basic Features and Alert-Systems that an Market-app has
+7) Contains all Basic Features and Alert-Systems.
 
 ### Tech Stack :-
 1) Frontend :- Scene Builder,  CSS
@@ -24,10 +24,10 @@
 3) Database :- MySQL
 
 ### Team Members that contributed to this Project :-
-1) Narendra Dukhande
+1) [Narendra Dukhande](https://github.com/narendra3003)
    
-3) Lenoy Geo Thomas
+2) [Lenoy Geo Thomas](https://github.com/LenoyGeo)
    
-5) Sanchita Warade
+3) [Sanchita Warade](https://github.com/sanchitavarade)
    
-7) Saifuddin Syed
+4) [Saifuddin Syed](https://github.com/saifuddin-syed)
