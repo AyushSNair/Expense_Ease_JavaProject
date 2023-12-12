@@ -17,11 +17,11 @@
 7) Contains all Basic Features and Alert-Systems.
 
 ### Tech Stack :-
-1) Frontend :- Scene Builder,  CSS
+Frontend :- Scene Builder,  CSS
    
-2) Backend :- Java, JavaFX Libraries
+Backend :- Java, JavaFX Libraries
    
-3) Database :- MySQL
+Database :- MySQL
 
 ### Team Members that contributed to this Project :-
 [Narendra Dukhande](https://github.com/narendra3003)
