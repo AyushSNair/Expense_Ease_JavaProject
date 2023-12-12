@@ -24,10 +24,10 @@
 3) Database :- MySQL
 
 ### Team Members that contributed to this Project :-
-1) [Narendra Dukhande](https://github.com/narendra3003)
+[Narendra Dukhande](https://github.com/narendra3003)
    
-2) [Lenoy Geo Thomas](https://github.com/LenoyGeo)
+[Lenoy Geo Thomas](https://github.com/LenoyGeo)
    
-3) [Sanchita Warade](https://github.com/sanchitavarade)
+[Sanchita Warade](https://github.com/sanchitavarade)
    
-4) [Saifuddin Syed](https://github.com/saifuddin-syed)
+[Saifuddin Syed](https://github.com/saifuddin-syed)
