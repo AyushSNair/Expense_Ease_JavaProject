@@ -23,11 +23,3 @@ Backend :- Java, JavaFX Libraries
    
 Database :- MySQL
 
-### Team Members that contributed to this Project :-
-[Narendra Dukhande](https://github.com/narendra3003)
-   
-[Lenoy Geo Thomas](https://github.com/LenoyGeo)
-   
-[Sanchita Warade](https://github.com/sanchitavarade)
-   
-[Saifuddin Syed](https://github.com/saifuddin-syed)
